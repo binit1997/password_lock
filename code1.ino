@@ -1,6 +1,6 @@
 
 #include <Password.h> //http://playground.arduino.cc/uploads/Code/Password.zip //password library
-#include <Keypad.h> //http://www.arduino.cc/playground/uploads/Code/Keypad.zip  //keypad library
+#include <Keypad.h> //http://www.arduino.cc/playground/uploads/Code/Keypad.zip //keypad library
 
 
 Password password = Password( "1234" ); //password to unlock, change accordingly
